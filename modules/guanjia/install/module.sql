@@ -1,0 +1,1 @@
+INSERT INTO `phpcms_module` (`module`, `name`, `url`, `iscore`, `version`, `description`, `setting`, `listorder`, `disabled`, `installdate`, `updatedate`) VALUES ('guanjia', '搜外内容管家', 'guanjia/', 0, '1.0.0', '搜外内容管家专注于SEO关键词、行业关键词挖掘，内容创作，让您的行业内容和关键词规划更轻松。', '', 0, 0, '2022-4-21', '2022-4-21');
